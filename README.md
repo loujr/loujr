@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python, Ansible, and Docker
 - 👯 I’m looking to collaborate on ... The README project
 - 🤔 I’m looking for help with ... GitHub Actions, GHES, and Codespaces
-- 📫 How to reach me: ... linkedin.com/in/louisnelsonjr
+- 📫 How to reach me: ... https://linkedin.com/in/louisnelsonjr
 
 <!--
 **loujr/loujr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

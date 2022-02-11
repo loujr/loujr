@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ... My GitHub Profile
 - 🌱 I’m currently learning ... Python, Ansible, and Docker
 - 👯 I’m looking to collaborate on ... The README project
-- 🤔 I’m looking for help with ... GitHub Actions, GHES, and Codespaces
+- 🤔 I’m looking for help with ... GitHub Actions, GHAS, and Codespaces
 - 📫 How to reach me: ... https://linkedin.com/in/louisnelsonjr
 
 <!--

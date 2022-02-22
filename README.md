@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lou! I Build Tech Stuff and Write About It
 - 🔭 I’m currently working on ... My GitHub Profile
 - 🌱 I’m currently learning ... Python, Ansible, and Docker
 - 👯 I’m looking to collaborate on ... The README project

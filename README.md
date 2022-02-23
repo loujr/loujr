@@ -33,18 +33,6 @@ I help my department gather a greater understanding of the nuances that develope
 We have a lot of talented engineers that are constantly redefining the DevOps landscape. I am happy to act as a go-between to explain some of these intricacies to less technical users. 
 
 
-#### When I am NOT Working
-
-Admittedly, I work a lot at my job. I really enjoy the team I have and I spend a lot of additional time training and exploring new repositories and software and understanding how things work. Technology is my passion. However, I do have other hobbies!
-
-- martial arts 
-- music
-- If the Internet can be a hobby I like that too
-- journaling
-- reading
-- hiking
-
-
 #### My Contact Info:
 
 - [LinkedIn](linkedin.com/in/louisnelsonjr/)

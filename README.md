@@ -33,9 +33,9 @@ We have a lot of talented engineers that are constantly redefining the DevOps la
 
 #### My Contact Info:
 
-- [LinkedIn](linkedin.com/in/louisnelsonjr/)
-- [Email](louis@5servers.com)
-- [Discord](lou_#9956)
+- [LinkedIn](https://linkedin.com/in/louisnelsonjr/)
+- [Email](@louis@5servers.com)
+- [Discord](@lou_#9956)
 
 
 

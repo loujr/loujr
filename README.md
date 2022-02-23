@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lou! I Build Tech Stuff and Write About It. ☠️
 
-Welcome to my GitHub Profile. I am a Technical Editor for the customer marketing team. This means I work with our customers and find out how they use GitHub so that we can better understand and adapt our platform to better suit their needs. As a Hubber, I work with some pretty amazing people.
+Welcome to my GitHub Profile. I am a Technical Editor for the Customer Marketing team. This means I work with our customers and find out how they use GitHub so that we can better understand and adapt our platform to better suit their needs. As a Hubber, I work with some pretty amazing people.
 
 #### README for loujr
 

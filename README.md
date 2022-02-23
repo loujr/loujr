@@ -23,9 +23,7 @@ Welcome to my GitHub Profile. I am a Technical Editor for the Customer Marketing
 I am currently contributing to our customer stories: You can find out more about it [here](github.com/customer-stories). Currently, my team and I are exploring three of GitHubs most unique products: 
 
 - [GitHub Actions](https://github.com/actions)
-
 - [GitHub Advanced Security](https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/)
-
 - [Codespaces](https://github.com/features/codespaces)
 
 I help my department gather a greater understanding of the nuances that developers face when they approach various problems using GitHub's tools. Right now, GitHub has a lot of amazing tools that handle things such as: Security, Automation, and CI/CD. And a lot more!

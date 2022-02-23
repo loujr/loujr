@@ -20,7 +20,7 @@ Welcome to my GitHub Profile. I am a Technical Editor for the Customer Marketing
 
 #### Within GitHub
 
-I am currently contributing to our customer stories: You can find our more about it [here](github.com/customer-stories). Currently, my team and I are exploring three of GitHubs most unique products: 
+I am currently contributing to our customer stories: You can find out more about it [here](github.com/customer-stories). Currently, my team and I are exploring three of GitHubs most unique products: 
 
 - [GitHub Actions](https://github.com/actions)
 

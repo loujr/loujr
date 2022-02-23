@@ -2,6 +2,7 @@
 
 Welcome to my GitHub Profile. I am a Technical Editor for the Customer Marketing team at GitHub. This means I work with our customers and find out how they use GitHub so that we can better understand and adapt our platform to better suit their needs. As a Hubber, I work with some pretty amazing people.
 
+
 #### README for loujr
 
 💻 I used to be a Systems Administrator before I became a Technical Editor. I was in the Webhosting space and did lots of development work on LAMP Stacks. I spent a lot of time monitoring networks for issues and solving problems. During my tenure at the company, we always made our SLA targets. 
@@ -16,17 +17,21 @@ Welcome to my GitHub Profile. I am a Technical Editor for the Customer Marketing
 - Python
 - Yaml
 
+
 #### Within GitHub
 
-I help my department gather a greater understanding of the nuances that developers face when they approach various problems using GitHub's tools. Right now, GitHub has a lot of amazing tools that handle things such as: 
+I am currently contributing to our customer stories: You can find our more about it [here](github.com/customer-stories). Currently, my team and I are exploring three of GitHubs most unique products: 
 
-- Security
-- Automation
-- CI/CD
+- [GitHub Actions](https://github.com/actions)
 
-And a lot more!
+- [GitHub Advanced Security](https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/)
+
+- [Codespaces](https://github.com/features/codespaces)
+
+I help my department gather a greater understanding of the nuances that developers face when they approach various problems using GitHub's tools. Right now, GitHub has a lot of amazing tools that handle things such as: Security, Automation, and CI/CD. And a lot more!
 
 We have a lot of talented engineers that are constantly redefining the DevOps landscape. I am happy to act as a go-between to explain some of these intricacies to less technical users. 
+
 
 #### When I am NOT Working
 
@@ -39,11 +44,12 @@ Admittedly, I work a lot at my job. I really enjoy the team I have and I spend a
 - reading
 - hiking
 
+
 #### My Contact Info:
 
-- linkedin.com/in/louisnelsonjr/
-- louis@5servers.com
-- lou_#9956
+- [LinkedIn](linkedin.com/in/louisnelsonjr/)
+- [Email](louis@5servers.com)
+- [Discord](lou_#9956)
 
 
 

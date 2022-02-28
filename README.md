@@ -3,7 +3,7 @@
 Welcome to my GitHub Profile. I am a Technical Editor for the Customer Marketing team at GitHub. This means I work with our customers and find out how they use GitHub so that we can better understand and adapt our platform to better suit their needs. As a Hubber, I work with some pretty amazing people.
 
 
-#### README for loujr
+#### README For loujr
 
 💻 I used to be a Systems Administrator before I became a Technical Editor. I was in the Webhosting space and did lots of development work on LAMP Stacks. I spent a lot of time monitoring networks for issues and solving problems. During my tenure at the company, we always made our SLA targets. 
 

@@ -28,7 +28,7 @@ I am currently contributing to our customer stories: you can find out more about
 
 I help my department gather a greater understanding of the nuances that developers face when they approach various problems using GitHub's tools. Right now, GitHub has a lot of amazing tools that handle things such as: Security, Automation, and CI/CD. And a lot more!
 
-We have a lot of talented engineers that are constantly redefining the DevOps landscape. I am happy to act as a go-between to explain some of these intricacies to less technical users. 
+We have a lot of talented engineers that are constantly redefining the DevOps landscape. I am happy to act as a go-between to explain some of these intricacies to less technical users. I am the Technical Deep Dive Dude ... at least that's what my team calls me.
 
 
 #### My Contact Info:

@@ -10,9 +10,9 @@ I used to be a Systems Administrator 💻. I was in the Webhosting space and did
 
 I have a passion for technology and my goal is to teach people how to become better in the Tech space :atom: . The Tech community is constantly growing and needs a lot of talented individuals to help solve major problems. I struggled a lot when I first started in Tech because I lacked good documentation :books:. Writing is a way for me to solve the problems I faced while trying to develop my skills. 
 
-I am Co-Founder of a volunteer organization to help teach people on how to contribute to opensource projects. This is designed to help people who have never contributed to a project learn how to use CICD tools - even if your knowledge is not far beyond "Hello World" come visit us at [PaperStreet](https://github.com/paperstreetco).
+I am Co-Founder of a volunteer organization to help teach people on how to contribute to opensource projects. This is designed to help people who have never contributed to a project learn how to use CICD tools :hammer_and_wrench: - even if your knowledge is not far beyond "Hello World" come visit us at [PaperStreet](https://github.com/paperstreetco).
 
-This is a brief list of some of the platforms 🌱 I work with consistently:
+This is a brief list of some of the platforms :toolbox: I work with consistently:
 
 - Ansible
 - Apache

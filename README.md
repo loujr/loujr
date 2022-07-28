@@ -19,18 +19,13 @@ This is a brief list of some of the platforms I work with consistently:
 - Docker
 - Flask
 - Gunicorn
-- MySQL/Maria
-- NGiNX
+- MySQL/MariaDB
+- Nginx
 - OpenStack
 - Python
 - REST API
 - Web Applications
-- Yaml
-
-
-#### Navigation 🧭: 
-
-Much of my projects have all been opensourced in my volunteer group [PaperStreet](https://github.com/paperstreetco). I believe firmly in dogfooding :dog: my own software. Many of these repositories are hidden, poorly named, and may contain practice excercises, notes, and other general documentation.
+- YAML
 
 
 #### My Contact Info  📫 :

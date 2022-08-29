@@ -18,6 +18,7 @@ This is a brief list of some of the platforms I work with consistently:
 - Apache
 - Docker
 - Flask
+- GraphQL
 - Gunicorn
 - MySQL/MariaDB
 - Nginx

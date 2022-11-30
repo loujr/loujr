@@ -32,7 +32,6 @@ This is a brief list of some of the platforms I work with consistently:
 #### My Contact Info  📫 :
 
 - [LinkedIn](https://linkedin.com/in/louisnelsonjr/)
-- Discord lou_#9956
 
 
 #### Any comments are my personal opinion and do not reflect GitHub or Affiliates 

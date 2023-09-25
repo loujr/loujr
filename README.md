@@ -34,7 +34,7 @@ This is a brief list of some of the platforms I work with consistently:
 - [LinkedIn](https://linkedin.com/in/louisnelsonjr/)
 
 
-#### Any comments are my personal opinion and do not reflect GitHub or Affiliates 
+**Any comments are my personal opinion and do not reflect GitHub or Affiliates**
 
 <!--
 **loujr/loujr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
